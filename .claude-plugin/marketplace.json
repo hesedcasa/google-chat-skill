@@ -1,0 +1,16 @@
+{
+  "name": "Hesed",
+  "owner": {
+    "name": "Hesed"
+  },
+  "plugins": [
+    {
+      "name": "google-chat-skill",
+      "source": {
+        "source": "github",
+        "repo": "hesedcasa/google-chat-skill"
+      },
+      "description": "Send messages to Google Chat spaces and reply to threads directly from Claude Code"
+    }
+  ]
+}
