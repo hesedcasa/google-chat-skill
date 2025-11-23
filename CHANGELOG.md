@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/hesedcasa/google-chat-skill/compare/v1.0.0...v1.0.1) (2025-11-23)
+
+
+### 🛠️ Fixes
+
+* fix claude code plugin ([#2](https://github.com/hesedcasa/google-chat-skill/issues/2)) ([a7730e5](https://github.com/hesedcasa/google-chat-skill/commit/a7730e532321b7911acf1305d15ad631efcb4b06))
+
 ## 1.0.0 (2025-11-23)
 
 
