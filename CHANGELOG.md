@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/hesedcasa/google-chat-skill/compare/v1.0.2...v1.0.3) (2025-11-23)
+
+
+### 🛠️ Fixes
+
+* move skill into the skills folder ([8e23805](https://github.com/hesedcasa/google-chat-skill/commit/8e23805f7498a13cd60107a6316e44d6eb2861e4))
+
 ## [1.0.2](https://github.com/hesedcasa/google-chat-skill/compare/v1.0.1...v1.0.2) (2025-11-23)
 
 
