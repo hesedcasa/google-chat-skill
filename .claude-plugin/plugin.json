@@ -1,8 +1,0 @@
-{
-  "name": "google-chat-skill",
-  "version": "latest",
-  "description": "Send messages to Google Chat spaces and reply to threads directly from Claude Code",
-  "author": {
-    "name": "Hesed"
-  }
-}
