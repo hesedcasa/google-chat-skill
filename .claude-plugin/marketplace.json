@@ -12,7 +12,7 @@
         "repo": "hesedcasa/google-chat-skill"
       },
       "skills": [
-        "./"
+        "./google-chat-skill"
       ]
     }
   ]
